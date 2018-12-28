@@ -1,4 +1,7 @@
-# react-redux-registration-login-example
+# home-inethi
+
+
+## Originally created from react-redux-registration-login-example
 
 React + Redux - User Registration and Login Tutorial & Example
 
